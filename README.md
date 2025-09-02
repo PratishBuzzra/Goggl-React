@@ -29,6 +29,11 @@ Designed as a React mini project to reinforce core concepts like state managemen
 
 ---
 
+##  Live Demo
+Check out the live version of the project here:  
+[Live Preview](https://goggl-react-two.vercel.app/search)
+
+---
 ## Getting Started
 
 To run this project locally, follow these steps:
