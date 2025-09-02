@@ -40,10 +40,10 @@ To run this project locally, follow these steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/PratishBuzzra/ReactJS-ToDoList.git
+git clone https://github.com/PratishBuzzra/Goggl-React.git
 
 # Navigate to the project folder
-cd ReactJS-ToDoList
+cd Goggl-React
 
 # Install dependencies
 npm install
